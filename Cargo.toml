@@ -1,0 +1,7 @@
+[package]
+name = "strcmp"
+version = "1.0.0"
+authors = ["David Pacheco <dap@cs.brown.edu>"]
+edition = "2018"
+
+[dependencies]
